@@ -1,9 +1,0 @@
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.BLL.dll
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.BLL.pdb
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.DAL.dll
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.Models.dll
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.DAL.pdb
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\bin\Debug\MyApp.Models.pdb
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\obj\Debug\Hotel.BLL.csprojResolveAssemblyReference.cache
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\obj\Debug\MyApp.BLL.dll
-F:\Vikul\GITHUB\B10Team3\Hotel\MyApp.BLL\obj\Debug\MyApp.BLL.pdb
